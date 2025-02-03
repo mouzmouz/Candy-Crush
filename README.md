@@ -20,7 +20,7 @@ This project is a 3D puzzle game, inspired by the mechanics of Candy Crush, deve
 - **Keyboard**:
   - Arrow keys to rotate the camera.
 
-## Tools:
+## Tools
 - OpenGL
 - GLUT
 
@@ -30,3 +30,7 @@ This project is a 3D puzzle game, inspired by the mechanics of Candy Crush, deve
 - `paper.png`, `rock.png`, `scissors.png`: Image resources for cube textures.
 - `stb_image.h`: Header file for image loading.
 - `readme.pdf`: Contains detailed descriptions and team member details.
+
+## Credits
+Eleni Mouzaki
+Panagiotis Papaioannou
