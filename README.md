@@ -1,7 +1,7 @@
 # ΒραΧαΨα III - A 3D Candy Crush-like Game
 
 ## Overview
-This project is a 3D puzzle game, inspired by the mechanics of Candy Crush, developed using OpenGL and GLUT. The game involves interacting with 3D cubes representing "rock", "paper", "scissors", and colored blocks in a 15x15 grid. Players swap cubes to form matching combinations and score points.
+This project is a 3D puzzle game, inspired by the mechanics of Candy Crush, developed using OpenGL and GLUT. The game involves interacting with 3D cubes representing "rock", "paper", "scissors" and colored blocks in a 15x15 grid. Players swap cubes to form matching combinations and score points.
 
 ## Features
 - **3D Rendering**: Realistic 3D cubes with lighting and perspective projection.
@@ -20,7 +20,7 @@ This project is a 3D puzzle game, inspired by the mechanics of Candy Crush, deve
 - **Keyboard**:
   - Arrow keys to rotate the camera.
 
-## Dependencies
+## Tools:
 - OpenGL
 - GLUT
 
@@ -30,9 +30,3 @@ This project is a 3D puzzle game, inspired by the mechanics of Candy Crush, deve
 - `paper.png`, `rock.png`, `scissors.png`: Image resources for cube textures.
 - `stb_image.h`: Header file for image loading.
 - `readme.pdf`: Contains detailed descriptions and team member details.
-
-## How to Compile and Run
-1. Ensure OpenGL and GLUT are installed on your system.
-2. Compile the program using the provided Makefile:
-   ```bash
-   make
